@@ -20,4 +20,4 @@ We’ve also created a TypeScript program called [Mindemo3D](https://github.com/
 
 Feel free to explore the interactive visualization and see the fascinating results!🌟
 
-![example of mindemo2d](mindemo3d_5.png)
+![example of mindemo2d](mindemo3d_0.png)

@@ -22,4 +22,4 @@ Mindemoは、[最小情報従属モデル(Minimum Information Dependence Model)]
 
 [最小情報従属モデル](https://arxiv.org/abs/2206.06792)を用いて構成した3次元の確率分布を可視化する[Mindemo3D](https://github.com/tanaken-basis/mindemo3d)という名前のTypeScriptのプログラムを[こちら](https://github.com/tanaken-basis/mindemo3d)に用意しています。[デモ用のWebページ](https://tanaken-basis.github.io/mindemo3d/)ですぐに体験できますのでご覧ください。
 
-![example of mindemo2d](mindemo3d_5.png)
+![example of mindemo2d](mindemo3d_0.png)
